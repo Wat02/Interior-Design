@@ -302,6 +302,8 @@
 
 
 
+
+
 @media (max-width: 767px){
   #img-22 {
     width: 100%;
@@ -778,7 +780,7 @@
 
 @media (max-width: 767px){
   #h2-padding-size {
-    font-size: 50px;
+    font-size: 40px;
     padding-bottom: 20px;
   }
 }
@@ -809,7 +811,7 @@
 
 @media (max-width: 767px){
   #p {
-    font-size: 25px;
+    font-size: 23px;
   }
 }
 
